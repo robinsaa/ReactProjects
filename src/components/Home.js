@@ -8,7 +8,7 @@ class Home extends Component  {
         return (
             <div className = "container">
                 <div className='topnav'>
-                <Link  to='/'>Entry point</Link>
+                <Link  to='/'>Entry point branch practice</Link>
                 <Link  to='/home/Subpage1'>Sub Page 1</Link>
                 <Link  to='/home/Subpage2'>Sub Page 2</Link>
                 </div>
